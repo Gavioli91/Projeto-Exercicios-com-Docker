@@ -17,5 +17,8 @@
   "devDependencies": {
     "jest": "27.2.3",
     "uuid": "8.3.2"
+  },
+  "dependencies": {
+    "npm": "^8.19.2"
   }
 }
